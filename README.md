@@ -1,7 +1,7 @@
 
 #  🛒 Zepto E-commerce SQL Data Analyst Portfolio Project
 
-A real-world data analytics portfolio project using scraped Zepto e-commerce inventory data to demonstrate end-to-end analyst workflows, from raw data cleaning and exploration to actionable business insights._
+A real-world data analytics  project using scraped Zepto e-commerce inventory data to demonstrate end-to-end analyst workflows, from raw data cleaning and exploration to actionable business insights.
 
 ---
 
